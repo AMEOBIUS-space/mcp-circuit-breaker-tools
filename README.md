@@ -11,4 +11,6 @@ python -m pytest tests/ -v  # 24 tests, all passing
 ```
 
 ## License
-MIT — AMEOBIUS
+MIT — aaameobius-crypto
+
+Freelance portfolio: [https://ameobius-space.github.io/kwork-portfolio/](https://ameobius-space.github.io/kwork-portfolio/)
